@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Netula Siddhartha Yadav 
 
-🚀 **Cloud-Native DevOps & MLOps Engineer** | 🌍 Hyderabad, India 
+🚀 **Cloud-Native Data DevOps & MLOps Engineer Explorer** | 🌍 Hyderabad, India 
 
 💡 Passionate about **automation, scalable cloud systems, and intelligent data-driven pipelines**. 
-With 4.5+ years of experience, I specialize in **AWS, DevOps, and MLOps**—bridging the gap between development, operations, and machine learning workflows. 
+With 4.7+ years of experience, I specialize in **AWS, DevOps, Data and MLOps**—bridging the gap between development, operations, and machine learning workflows. 
 
 ---
 
@@ -52,7 +52,7 @@ With 4.5+ years of experience, I specialize in **AWS, DevOps, and MLOps**—brid
 - ☁️ **AWS Cloud Practitioner** 
 - 🐧 **Linux Automation with Ansible (RH294)** 
 - 🐧 **Red Hat System Administration I** 
-- 🐙 **GitHub Foundations**
+- 🐙 **GitHub Foundations** 
 
 ---
 
@@ -75,4 +75,4 @@ With 4.5+ years of experience, I specialize in **AWS, DevOps, and MLOps**—brid
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/netula-siddhartha-yadav-8b58851a6/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhartha-svg) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netulasiddhartha129@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netulasiddhartha891@gmail.com)
