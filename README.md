@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hi, I'm Netula Siddhartha Yadav 
+# 👋 Hi there, I'm Netula Siddhartha Yadav 
 
 🚀 **Cloud-Native Data DevOps & MLOps Engineer Explorer** | 🌍 Hyderabad, India 
 
