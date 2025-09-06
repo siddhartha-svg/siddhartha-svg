@@ -13,7 +13,7 @@ Cloud-native DevOps Engineer with **4.5+ years** of experience architecting and 
 - ☁️ AWS Certified DevOps Engineer with deep expertise in cloud architecture
 - 🛠️ Passionate about automation, infrastructure as code, and DevSecOps practices
 - 📊 Strong background in monitoring, logging, and observability solutions
-- 🎓 Pursuing Bachelor's in Computing & Design from BITS Pilani
+- 🎓 Perceived Bachelor's in Computing & Design from BITS Pilani
 
 ## 💼 Professional Experience
 
